@@ -3,129 +3,129 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
+"Language: pl\n"
 
 #: Settings
 msgctxt "#32001"
 msgid "Restore method"
-msgstr ""
+msgstr "Metoda odzyskiwania"
 
 #: Settings
 msgctxt "#32002"
 msgid "Amount of stored backups"
-msgstr ""
+msgstr "Ilość przechowywanych kopii"
 
 #: Settings
 msgctxt "#32010"
 msgid "Notifications"
-msgstr ""
+msgstr "Powiadomienia"
 
 #: Settings
 msgctxt "#32011"
 msgid "Debuging"
-msgstr ""
+msgstr "Debugowanie"
 
 #: Settings
 msgctxt "#32015"
 msgid "On Playback Stopped"
-msgstr ""
+msgstr "Po zatrzymaniu odtwarzania"
 
 #: Settings
 msgctxt "#32016"
 msgid "On Kodi Start"
-msgstr ""
+msgstr "Przy uruchamianiu programu"
 
 #: Settings
 msgctxt "#32017"
 msgid "Hours since the last backup"
-msgstr ""
+msgstr "Godzin od ostatniej kopii"
 
 #: Settings
 msgctxt "#32020"
 msgid "General"
-msgstr ""
+msgstr "Główne"
 
 #: Settings
 msgctxt "#32021"
 msgid "Auto backup"
-msgstr ""
+msgstr "Kopia automatyczna"
 
 #: Settings
 msgctxt "#32022"
 msgid "Full Path"
-msgstr ""
+msgstr "Pełna ścieżka"
 
 #: Settings
 msgctxt "#32023"
 msgid "Filename"
-msgstr ""
+msgstr "Nazwa pliku"
 
 #: GUI
 msgctxt "#32100"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: GUI
 msgctxt "#32101"
 msgid "Backup"
-msgstr ""
+msgstr "Kopia"
 
 #: GUI
 msgctxt "#32102"
 msgid "Restore"
-msgstr ""
+msgstr "Odzyskaj"
 
 #: GUI
 msgctxt "#32103"
 msgid "Backup created"
-msgstr ""
+msgstr "Kopia utworzona"
 
 #: GUI
 msgctxt "#32104"
 msgid "No backup. Try to create it"
-msgstr ""
+msgstr "Brak kopii. Spróbuj ją utworzyć"
 
 #: GUI
 msgctxt "#32105"
 msgid "watched status"
-msgstr ""
+msgstr "pozycji"
 
 #: GUI
 msgctxt "#32106"
 msgid "Restored"
-msgstr ""
+msgstr "Przywrócono"
 
 #: GUI
 msgctxt "#32107"
 msgid "Backup file is empty"
-msgstr ""
+msgstr "Plik kopii jest pusty"
 
 #: GUI
 msgctxt "#32108"
 msgid "no"
-msgstr ""
+msgstr "nie"
 
 #: GUI
 msgctxt "#32109"
 msgid "Stored backups"
-msgstr ""
+msgstr "Przechowywane kopie"
 
 #: GUI
 msgctxt "#32110"
 msgid "backups. Scroll to see more"
-msgstr ""
+msgstr "kopii. Przewiń aby zobaczyć więcej"
 
 #: GUI
 msgctxt "#32111"
 msgid "yes"
-msgstr ""
+msgstr "tak"
 
 #: Progressbar
 msgctxt "#32200"
 msgid "Restoring"
-msgstr ""
+msgstr "Przywracanie"
 
 #: Progressbar
 msgctxt "#32201"
 msgid "Starting"
-msgstr ""
+msgstr "Rozpoczynanie"
