@@ -6,11 +6,6 @@ msgstr ""
 "Language: pl\n"
 
 #: Settings
-msgctxt "#32001"
-msgid "Restore method"
-msgstr "Metoda odzyskiwania"
-
-#: Settings
 msgctxt "#32002"
 msgid "Amount of stored backups"
 msgstr "Ilość przechowywanych kopii"
@@ -50,16 +45,6 @@ msgctxt "#32021"
 msgid "Auto backup"
 msgstr "Kopia automatyczna"
 
-#: Settings
-msgctxt "#32022"
-msgid "Full Path"
-msgstr "Pełna ścieżka"
-
-#: Settings
-msgctxt "#32023"
-msgid "Filename"
-msgstr "Nazwa pliku"
-
 #: GUI
 msgctxt "#32100"
 msgid "Menu"
@@ -87,7 +72,7 @@ msgstr "Brak kopii. Spróbuj ją utworzyć"
 
 #: GUI
 msgctxt "#32105"
-msgid "watched status"
+msgid "items"
 msgstr "pozycji"
 
 #: GUI
@@ -102,8 +87,8 @@ msgstr "Plik kopii jest pusty"
 
 #: GUI
 msgctxt "#32108"
-msgid "no"
-msgstr "nie"
+msgid "Cancel"
+msgstr "Anuluj"
 
 #: GUI
 msgctxt "#32109"
@@ -111,14 +96,44 @@ msgid "Stored backups"
 msgstr "Przechowywane kopie"
 
 #: GUI
-msgctxt "#32110"
-msgid "backups. Scroll to see more"
-msgstr "kopii. Przewiń aby zobaczyć więcej"
+msgctxt "#32111"
+msgid "Restore"
+msgstr "Przywróć"
 
 #: GUI
-msgctxt "#32111"
-msgid "yes"
-msgstr "tak"
+msgctxt "#32112"
+msgid "Select restore method"
+msgstr "Wybierz metodę przywracania"
+
+#: GUI
+msgctxt "#32113"
+msgid "Full Path"
+msgstr "Pełna ścieżka"
+
+#: GUI
+msgctxt "#32114"
+msgid "Filename"
+msgstr "Nazwa pliku"
+
+#: GUI
+msgctxt "#32115"
+msgid "Movies"
+msgstr "Filmów"
+
+#: GUI
+msgctxt "#32116"
+msgid "Episodes"
+msgstr "Episodów"
+
+#: GUI
+msgctxt "#32117"
+msgid "Items in backup file"
+msgstr "Pozycji w pliku kopii"
+
+#: GUI
+msgctxt "#32118"
+msgid "Matched items to restore"
+msgstr "Pasujących pozycji do przywrócenia"
 
 #: Progressbar
 msgctxt "#32200"
@@ -127,5 +142,5 @@ msgstr "Przywracanie"
 
 #: Progressbar
 msgctxt "#32201"
-msgid "Starting"
-msgstr "Rozpoczynanie"
+msgid "Initialize"
+msgstr "Inicjowanie"

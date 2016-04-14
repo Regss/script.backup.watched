@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <settings>
     <category label="32020">
-        <setting label="32001" type="enum" id="method" lvalues="32022|32023" />
         <setting label="32002" type="labelenum" id="amountBackups" values="5|10|25|50" default="10" />
         <setting type="sep" />
         <setting label="32010" type="bool" id="notify" default="true" />
